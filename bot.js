@@ -4,7 +4,7 @@ const prefix = '%'
 //First Love Bot By Luca Changretta
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`First Love | %help`,"http://twitch.tv/S-F")
+client.user.setGame(`By Atlantic | %help`,"http://twitch.tv/S-F")
   console.log('')
   console.log('') 
   console.log('╔[═════════════════════════════════════════════════════════════════]╗')
